@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------------
+Instrucciones del juego:
+	1) Las palabras deben ser en inglés
+	2) La primera palabra que introduzcas debe pasar por el centro del tablero (posición = [7,7])
+	3) Las siguientes palabras deben utilizar al menos una ficha del tablero
+	4) Las posibles direcciones son:
+		V : Vertical
+		H : Horizontal 
+------------------------------------------------------------------------------------------------------

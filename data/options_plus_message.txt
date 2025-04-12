@@ -1,0 +1,7 @@
+Para continuar, introduce ENTERPOSITION
+Para cambiar la palabra, introduce ENTERWORD
+Para ver los puntos de cada ficha, introduce PAWNSPOINTS
+Para ver los multiplicadores, introduce HELPLEGEND
+Para obtener ayuda y ver las posibles palabras a armar con tus fichas, introduce HELPWORD
+Para obtener ayuda y ver las posibles posiciones para tu palabra, introduce HELPPOS
+Para salir, introduce QUIT
